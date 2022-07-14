@@ -1,25 +1,30 @@
-### Hi there 👋
+`"keep living in my /etc/shadow" -dirty 2k21` 
 
-current blue-teamer building a /security/ based homelab in my freetime.  
+Current blue-teamer building a /security/ based homelab in my freetime. 
 
-interested in all things: 
+---
+
+
+#### interested in all things: 
 - hacking
-- dev(sec)ops
-- thicc networks
+- dev(sec)ops 
+- thicc networks && their logs 
 - old school runescape
 - ibm plex monospace
 
 
-looking for:
-- someone to teach me regex
+#### seeking:
+- someone to teach me regex (i will not learn)
+- forbidden knowledge
+- more coffee
 
 
 :q
 
 
 
-[img credit](https://ko-fi.com/maicakes)
 
+[©️:camera:](https://ko-fi.com/maicakes)
 
 <!--
 **gunSec/gunSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
