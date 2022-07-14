@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+current blue-teamer building a /security/ based homelab in my freetime.  
+
+interested in all things: 
+- hacking
+- dev(sec)ops
+- thicc networks
+- old school runescape
+- ibm plex monospace
+
+
+looking for:
+- someone to teach regex
+:q
+
+
+
+[img credit](https://ko-fi.com/maicakes)
+
+
 <!--
 **gunSec/gunSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
