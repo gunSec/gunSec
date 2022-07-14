@@ -11,7 +11,7 @@ interested in all things:
 
 
 looking for:
-- someone to teach regex me
+- someone to teach me regex
 
 
 :q
