@@ -1,5 +1,3 @@
-`"keep living in my /etc/shadow" -dirty 2k21` 
-
 Current blue-teamer building a /security/ based homelab in my freetime. 
 
 ---
@@ -18,6 +16,8 @@ Current blue-teamer building a /security/ based homelab in my freetime.
 - forbidden knowledge
 - more coffee
 
+
+`"keep living in my /etc/shadow" -dirty 2k21` 
 
 :q
 
