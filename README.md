@@ -1,4 +1,5 @@
-Current blue-teamer building a /security/ based homelab in my freetime. 
+blue-teamer building a /security/ based homelab in my freetime. 
+
 
 ---
 
@@ -9,9 +10,6 @@ Current blue-teamer building a /security/ based homelab in my freetime.
 - thicc networks && their logs 
 - ibm plex monospace
 
-
-#### seeking:
-- someone to teach me regex (i will not learn)
 
 
 ---
