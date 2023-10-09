@@ -6,8 +6,7 @@ blue-teamer building a /security/ based homelab in my freetime.
 
 #### interested in all things: 
 - hacking
-- dev(sec)ops 
-- thicc networks && their logs 
+- dev(sec)ops  
 - ibm plex monospace
 
 
