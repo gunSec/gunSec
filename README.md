@@ -1,5 +1,4 @@
-blue-teamer building a /security/ based homelab in my freetime. 
-
+"Hacking is not just about exploiting vulnerabilities; it is about empowering the powerless."
 
 ---
 
@@ -9,7 +8,7 @@ blue-teamer building a /security/ based homelab in my freetime.
 - threat intelligence
 - dev(sec)ops  
 - ibm plex monospace
-
+- encryption / digital privacy
 
 
 ---
