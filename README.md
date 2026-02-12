@@ -1,9 +1,6 @@
-"Hacking is not just about exploiting vulnerabilities; it is about empowering the powerless."
 
----
-
-
-#### interested in all things: 
+#### i enjoy
+- arch btw
 - hacking
 - threat intelligence
 - dev(sec)ops  
@@ -12,7 +9,7 @@
 
 
 ---
-`"keep living in my /etc/shadow" -dirty 2k21` 
+ 
 
 
 
